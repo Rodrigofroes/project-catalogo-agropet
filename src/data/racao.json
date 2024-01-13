@@ -1,0 +1,826 @@
+{
+  "cachorro": [
+    {
+      "id": 1,
+      "marca": "Spert",
+      "nome": "Cães adultos todos os portes",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/spert-adultos-todos-os-portes-min.png.webp",
+      "pacotes": [
+        {
+          "pacote": "10Kg",
+          "preco": 105.00
+        },
+        {
+            "pacote": "15Kg",
+            "preco": 142.84
+        },
+        {
+            "pacote": "20Kg",
+            "preco": 186.00
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "marca": "Spert",
+      "nome": "Filhotes alimento",
+      "tipo": "Premium",
+      "imgURL":"./src/assets/img/racao-filhotes-min.png.webp",
+      "pacotes": [
+        {
+          "pacote": "10Kg",
+          "preco": 130.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 240.00
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "marca": "Spert",
+      "nome": "Cães adultos médio e grande porte",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/spert-adultos-medio-e-grande-porte-min.png.webp",
+      "pacotes": [
+        {
+          "pacote": "15Kg",
+          "preco": 175.00
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "marca": "Spert",
+      "nome":"Cães adultos pequeno porte",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/spert-adultos-pequeno-porte-min.png.webp",
+      "pacotes": [
+        {
+          "pacote": "10Kg",
+          "preco": 126.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 240.00
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "marca": "Spert",
+      "nome":"Cães sênior pequeno porte",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/spert-senior-pequeno-porte-min.png.webp",
+      "pacotes": [
+        {
+          "pacote": "10Kg",
+          "preco": 127.50
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 241.53
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "marca": "Special dog",
+      "nome": "Prime júnior raças médias",
+      "tipo":"Super premium",
+      "imgURL": "./src/assets/img/special-dog-prime-junior-racas-medias-peej9-20230904115532.png",
+      "pacotes": [
+        {
+          "pacote": "20Kg",
+          "preco": 315.00
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "marca": "Special dog",
+      "nome": "Prime adultos raças médias",
+      "tipo":"Super premium",
+      "imgURL": "./src/assets/img/special-dog-prime-adultos-racas-medias-s0kr8-20230904115717.png",
+      "pacotes": [
+        {
+          "pacote": "10Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "15Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 100.00
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "marca": "Special dog",
+      "nome": "Prime adultos raças pequenas",
+      "tipo":"Super premium",
+      "imgURL": "./src/assets/img/special-dog-prime-adultos-racas-pequenas-llh24-20230904120412.png",
+      "pacotes": [
+        {
+          "pacote": "10Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "15Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 100.00
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "marca": "Special dog",
+      "nome": "Ultralife cães raças pequenas júnior",
+      "tipo": "Premium especial",
+      "imgURL": "./src/assets/img/special-dog-ultralife-caes-racas-pequenas-junior-sabor-frango-8sq2m-20230807132630.png",
+      "pacotes": [
+        {
+          "pacote": "10Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "15Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco":100.00
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "marca": "Special dog",
+      "nome": "Ultralife cães raças pequenas adultos",
+      "tipo": "Premium especial",
+      "imgURL": "./src/assets/img/special-dog-ultralife-caes-racas-pequenas-adultos-sabor-cordeiro-zuy9k-20230807131924.png",
+      "pacotes": [
+        {
+          "pacote": "10Kg",
+          "preco": 124.00
+        },
+        {
+          "pacote": "15Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 100.00
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "marca": "Special dog",
+      "nome": "Ultralife cães raças pequenas adultos",
+      "tipo": "Premium especial",
+      "imgURL": "./src/assets/img/special-dog-ultralife-caes-racas-pequenas-adultos-sabor-frango-ghieg-20230807132302.png",
+      "pacotes":[
+        {
+          "pacote": "10Kg",
+          "preco": 124.00
+        },
+        {
+          "pacote": "15Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 100.00
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "marca": "Special dog",
+      "nome": "Ultralife raças médias e grandes light castrados ",
+      "tipo": "Premium especial",
+      "imgURL": "./src/assets/img/special-dog-ultralife-caes-racas-medias-e-grandes-light-castrados-sabor-frango-fnmeb-20230807130915.png",
+      "pacotes": [
+        {
+          "pacote": "10Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "15Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 100.00
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "marca": "Special dog",
+      "nome": "Ultralife cães raças pequenas light castrados",
+      "tipo": "Premium especial",
+      "imgURL": "./src/assets/img/special-dog-ultralife-caes-racas-pequenas-light-castrados-sabor-frango-w99w7-20230807133751.png",
+      "pacotes": [
+        {
+          "pacote": "10Kg",
+          "preco": 136.00
+        },
+        {
+          "pacote": "15Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 100.00
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "marca": "Special dog",
+      "nome": "Gold performance adultos",
+      "tipo": "Premium especial",
+      "imgURL": "./src/assets/img/special-dog-gold-performance-adultos-carne-e-frango-jitpf-20230928121028.png",
+      "pacotes": [
+        {
+          "pacote": "10Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "15Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 100.00
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "marca": "Special dog",
+      "nome": "Gold life adultos",
+      "tipo": "Premium especial",
+      "imgURL": "./src/assets/img/special-dog-gold-life-adultos-carne-e-frango-b2cdm-20230928144919.png",
+      "pacotes": [
+        {
+          "pacote": "10Kg",
+          "preco": 90.00
+        },
+        {
+          "pacote": "15Kg",
+          "preco": 136.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 176.00
+        }
+      ] 
+    },
+    {
+      "id": 16,
+      "marca": "Special dog",
+      "nome": "Júnior sabor carne",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/special-dog-junior-carne-oxrft-20231101150843.png",
+      "pacotes":[
+        {
+          "pacote": "15Kg",
+          "preco": 165.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 212.00
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "marca": "Special dog",
+      "nome": "Adultos sabor carne",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/special-dog-carne-adultos-flna4-202112231352461.png",
+      "pacotes":[
+        {
+          "pacote": "15Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 100.00
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "marca": "Special dog",
+      "nome": "Adultos pequeno porte",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/special-dog-adultos-pequeno-porte-0dzlo-202112231354281.png",
+      "pacotes": [
+        {
+          "pacote":"10Kg",
+          "preco": 110.00
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "marca": "Special dog",
+      "nome": "Júnior pró vegetais",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/special-dog-pro-junior-vegetais-28rqp-20230418131315.png",
+      "pacotes": [
+        {
+          "pacote": "15Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco":100.00
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "marca": "Special dog",
+      "nome": "Adultos plus carne",
+      "tipo": "Premium",
+      "imgURL":  "./src/assets/img/special-dog-plus-adultos-carne-bmctt-20230418131048.png",
+      "pacotes": [
+        {
+          "pacote": "15Kg",
+          "preco": 100.00 
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 162.00
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "marca": "Special dog",
+      "nome": "Adultos vegetais",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/special-dog-vegetais-adultos-44ll1-202112231353581.png",
+      "pacotes": [
+        {
+          "pacote": "15Kg",
+          "preco": 128.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 100.00
+        }
+      ]
+    },
+    {
+      "id": 22, 
+      "marca": "Billy dog",
+      "nome": "Cães adultos",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/nutridani-billy.png",
+      "pacotes": [
+        {
+          "pacote": "16Kg",
+          "preco": 93.00
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "marca": "Quartz",
+      "nome": "Cão essencial adultos todas as raças",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/adultos-essencial.png",
+      "pacotes":[
+        {
+          "pacote": "20Kg",
+          "preco": 135.00
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "marca": "Magnus",
+      "nome": "Adultos todo dia",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/MKP-Magnus-Todo-Dia_02-e1704474111493.png.webp",
+      "pacotes": [
+        {
+          "pacote": "15Kg",
+          "preco": 118.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 155.00
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "marca": "Robustus",
+      "nome": "Cão adultos",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/dia-a-dia.png",
+      "pacotes":[
+        {
+          "pacote": "15Kg",
+          "preco": 98.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 145.00
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "marca": "Multi dog",
+      "nome": " Cães adultos",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/multidog-premium.webp",
+      "pacotes":[
+        {
+          "pacote": "15Kg",
+          "preco": 100.00
+        },
+        {
+          "pacote": "25Kg",
+          "preco": 155.00
+        }
+      ]
+    },
+    {
+      "id": 27, 
+      "marca": "Luck dog",
+      "nome": "Cães filhote",
+      "tipo": "alimento completo",
+      "imgURL": "./src/assets/img/180_racao_luck_dog_para_caes_filhotes_sabor_carne_684_1_b0a2d6fa2f7ece44cf570eb49a6515a5-removebg-preview.png",
+      "pacotes": [
+        {
+          "pacote": "10Kg",
+          "preco": 80.00
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "marca":"Atacama",
+      "nome": "Cães todas as raças",
+      "tipo": "Super premium",
+      "imgURL": "./src/assets/img/atacama.png",
+      "pacotes":[
+        {
+          "pacote": "14Kg",
+          "preco": 190.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 268.00
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "marca": "Chase",
+      "nome": "Cães adutos",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/chase-premium-verde.png",
+      "pacotes": [
+        {
+          "pacote": "15Kg",
+          "preco": 70.00
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "marca":"Magic pet",
+      "nome": "Cães adultos",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/mockup-Magic-Pet-Dog-carne-ESQUERDA.webp",
+      "pacotes": [
+        {
+          "pacote": "25Kg",
+          "preco": 110.00
+        }
+      ]
+    },
+    {
+      "id": 31, 
+      "marca":"Matsuda",
+      "nome": "Nhac vegetal",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/nhac-29.png",
+      "pacotes":[
+        {
+          "pacote": "15Kg",
+          "preco": 105.00
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "marca": "Matsuda",
+      "nome": "VittaMax classic cães adultos",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/vittamax-10.png",
+      "pacotes":[
+        {
+          "pacote": "15Kg",
+          "preco": 110.00
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "marca": "Matsuda",
+      "nome": "VittaMax premium",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/vittamax-7.png",
+      "pacotes":[
+        {
+          "pacote": "15Kg",
+          "preco": 130.00 
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "marca": "Dog trato",
+      "nome": "Cães adultos",
+      "tipo": "Premium",
+      "imgURL":"./src/assets/img/dog-trato-premium-01.webp",
+      "pacotes":[
+        {
+          "pacote": "15Kg",
+          "preco": 100.00
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "marca":"Peddy dog",
+      "nome": "Cães adultos",
+      "tipo": "Alimento completo",
+      "imgURL": "./src/assets/img/peddy-dog.png",
+      "pacotes":[
+        {
+          "pacote": "7Kg",
+          "preco": 35.00
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "marca":"Unna", 
+      "nome": "Cães adultos",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/UNNA_Cao-Adulto-Porte-P-1kg_v14_Curvas_frente2.png",
+      "pacotes":[
+        {
+          "pacote": "15Kg",
+          "preco": 110.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 148.00
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "marca": "Unna",
+      "nome": "Raças pequenas",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/UNNA_Cao-Adulto-Porte-P-1kg_v14_Curvas_frente-1.png",
+      "pacotes":[
+        {
+          "pacote": "10Kg",
+          "preco": 98.00
+        },
+        {
+          "pacote": "15Kg",
+          "preco": 115.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 160.54
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "marca": "Unna",
+      "nome": "Cães filhotes",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/UNNA_Cao-filhote-Porte-P-1kg_v14_Curvas_frente.png",
+      "pacotes":[
+        {
+          "pacote": "10Kg",
+          "preco": 105.00
+        },
+        {
+          "pacote": "15Kg",
+          "preco": 145.00
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 197.54
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "marca":"Birbo",
+      "nome": "Cães adultos",
+      "tipo": "Premium",
+      "imgURL": "./src/assets/img/d8ed8a6f3b5d6ab2f293c0d7bf1b0a01.png",
+      "pacotes": [
+        {
+          "pacote": "15Kg",
+          "preco": 111.00
+        }
+      ]
+    }
+  ],
+  "gato":[
+    {
+     "id": 40,
+     "marca": "Spert",
+     "nome": "Gatos adultos",
+     "tipo": "Premium especial",
+     "imgURL":"./src/assets/img/spert-gatos-min.png.webp",
+     "pacotes":[
+      {
+        "pacote": "10Kg",
+        "preco": 142.40
+      },
+      {
+        "pacote": "20Kg",
+        "preco": 271.25
+      }
+     ]
+    },
+    {
+      "id": 41,
+      "marca": "Spert",
+      "nome": "Gatos castrados",
+      "tipo":"Premium especial",
+      "imgURL": "./src/assets/img/spert-gatos-castrados-min.png.webp",
+      "pacotes":[
+        {
+          "pacote": "10Kg",
+          "preco": 160.65
+        },
+        {
+          "pacote": "20Kg",
+          "preco": 305.99
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "marca": "Whiskas",
+      "nome": "Gatos adultos",
+      "tipo":"Premium",
+      "imgURL": "./src/assets/img/7896029091906-product-image-1.webp",
+      "pacotes":[
+        {
+          "pacote": "10Kg",
+          "preco": 175.00
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "marca": "Whiskas",
+      "nome": "Gatos castrados",
+      "tipo":"Premium",
+      "imgURL": "./src/assets/img/7896029086995-product-image-1.webp",
+      "pacotes":[
+        {
+          "pacote": "10Kg",
+          "preco": 185.00
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "marca": "Atacama",
+      "nome": "Gatos castrados",
+      "tipo":"Super premium",
+      "imgURL": "./src/assets/img/screenshot_20230109043205-ae785e05a5-removebg-preview.png",
+      "pacotes":[
+        {
+          "pacote": "10Kg",
+          "preco": 171.13
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "marca": "Matsuda",
+      "nome": "VittaMax gato peixe ",
+      "tipo":"Premium especial",
+      "imgURL": "./src/assets/img/vittamax-12.png",
+      "pacotes":[
+        {
+          "pacote": "20Kg",
+          "preco": 260.00
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "marca": "Matsuda",
+      "nome": "VittaMax gato carne ",
+      "tipo":"Premium especial",
+      "imgURL": "./src/assets/img/vittamax-5.png",
+      "pacotes":[
+        {
+          "pacote": "20Kg",
+          "preco": 260.00
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "marca": "Golden",
+      "nome": " Gato castrado",
+      "tipo":"Premium",
+      "imgURL": "./src/assets/img/golden_gatos_adultos_carne_e_fra.webp",
+      "pacotes":[
+        {
+          "pacote": "10Kg",
+          "preco": 100.00
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "marca": "Unna",
+      "nome": "Gatos adultos",
+      "tipo":"Premium",
+      "imgURL": "./src/assets/img/embalagem-gato-adulto.png",
+      "pacotes":[
+        {
+          "pacote": "10Kg",
+          "preco": 100.00
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "marca": "Unna",
+      "nome": "Gatos castrados",
+      "tipo":"Premium",
+      "imgURL": "./src/assets/img/embalagem-gato-castrado.png",
+      "pacotes":[
+        {
+          "pacote": "10Kg",
+          "preco": 100.00
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "marca": "Marisol",
+      "nome": "Gatos adultos",
+      "tipo":"Premium",
+      "imgURL": "./src/assets/img/maricat.png",
+      "pacotes":[
+        {
+          "pacote": "20Kg",
+          "preco": 100.00
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "marca": "Misty cat",
+      "nome": "Gatos adultos",
+      "tipo":"alimento completo",
+      "imgURL": "./src/assets/img/misty-cat.png",
+      "pacotes":[
+        {
+          "pacote": "25Kg",
+          "preco": 100.00
+        }
+      ]
+    }
+
+  ]
+}
