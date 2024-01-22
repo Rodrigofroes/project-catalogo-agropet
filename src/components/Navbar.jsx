@@ -40,13 +40,13 @@ const Navbar = () => {
                     </figure>
                     <div className="hidden md:block">
                         <div className="ml-10 flex items-baseline space-x-4 *:font-medium  ">
-                            <Link className="transition hover:text-zinc-100 hover:bg-green-600 px-3 py-2 rounded-md" to="/">Home</Link>
-                            <Link className="transition hover:text-zinc-100 hover:bg-green-600 px-3 py-2 rounded-md" to="cachorro">Cachorro</Link>
+                            {/* <Link className="transition hover:text-zinc-100 hover:bg-green-600 px-3 py-2 rounded-md" to="/">Home</Link> */}
+                            <Link className="transition hover:text-zinc-100 hover:bg-green-600 px-3 py-2 rounded-md" to="/">Cachorro</Link>
                             <Link className="transition hover:text-zinc-100 hover:bg-green-600 px-3 py-2 rounded-md" to="gato">Gato</Link>
                         </div>
                     </div>
                 </div>
-                <div>
+                {/* <div>
                     <div className="flex items-center gap-2">
                       <Link to="carrinho">
                         <TfiBag/>
@@ -55,7 +55,7 @@ const Navbar = () => {
                         {conutList()}
                       </div>
                     </div>
-                  </div>
+                  </div> */}
                 <div className="-mr-2 flex md:hidden">
                     <button id="menuButton" type="button" className="inline-flex items-center justify-center p-2 rounded-md hover:text-zinc-100 hover:bg-green-600 focus:outline-none focus:bg-green-600 focus:text-zinc-100 transition" aria-label="Menu" aria-expanded={menuVisible}>
                         <TfiMenu />
@@ -63,10 +63,10 @@ const Navbar = () => {
                 </div>
             </div>
         </div>
-        <div id="menu" className={`${menuVisible ? "block" : "hidden"} transition md:hidden px-2 pt-2 pd-3 sm:px-3 *:font-medium`}>
+        <div id="menu" className={`${menuVisible ? "block" : "hidden"} transition md:hidden px-2 pt-2 pd-3 sm:px-3 *:font-medium mb-5`}>
             <div>
-                <Link className="transition hover:text-zinc-100 hover:bg-green-600 px-3 py-2 rounded-md block text-base" to="/">Home</Link>
-                <Link className="transition hover:text-zinc-100 hover:bg-green-600 px-3 py-2 rounded-md block text-base" to="cachorro">Cachorro</Link>
+                {/* <Link className="transition hover:text-zinc-100 hover:bg-green-600 px-3 py-2 rounded-md block text-base" to="/">Home</Link> */}
+                <Link className="transition hover:text-zinc-100 hover:bg-green-600 px-3 py-2 rounded-md block text-base" to="/">Cachorro</Link>
                 <Link className="transition hover:text-zinc-100 hover:bg-green-600 px-3 py-2 rounded-md block text-base" to="gato">Gato</Link>
             </div>
         </div>

@@ -5,7 +5,7 @@
       "marca": "Spert",
       "nome": "Cães adultos todos os portes",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/spert-adultos-todos-os-portes-min.png.webp",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/spert-adultos-todos-os-portes-min.png.webp?alt=media&token=89c3347c-5787-46c1-96b9-11f3ae6283f2",
       "pacotes": [
         {
           "pacote": "10Kg",
@@ -26,7 +26,7 @@
       "marca": "Spert",
       "nome": "Filhotes alimento",
       "tipo": "Premium",
-      "imgURL":"./src/assets/img/racao-filhotes-min.png.webp",
+      "imgURL":"https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/racao-filhotes-min.png.webp?alt=media&token=1b839dd8-8be7-47b7-804f-b3d32671dc4c",
       "pacotes": [
         {
           "pacote": "10Kg",
@@ -43,7 +43,7 @@
       "marca": "Spert",
       "nome": "Cães adultos médio e grande porte",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/spert-adultos-medio-e-grande-porte-min.png.webp",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/spert-adultos-medio-e-grande-porte-min.png.webp?alt=media&token=de42b32f-65e0-4132-856d-b2ece87d187f",
       "pacotes": [
         {
           "pacote": "15Kg",
@@ -56,7 +56,7 @@
       "marca": "Spert",
       "nome":"Cães adultos pequeno porte",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/spert-adultos-pequeno-porte-min.png.webp",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/spert-adultos-pequeno-porte-min.png.webp?alt=media&token=1eb0a310-2c3d-4610-ab79-c6edf4ff1ce2",
       "pacotes": [
         {
           "pacote": "10Kg",
@@ -73,7 +73,7 @@
       "marca": "Spert",
       "nome":"Cães sênior pequeno porte",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/spert-senior-pequeno-porte-min.png.webp",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/spert-senior-pequeno-porte-min.png.webp?alt=media&token=23e0783c-710f-4c76-ae31-0bae97b46e37",
       "pacotes": [
         {
           "pacote": "10Kg",
@@ -90,7 +90,7 @@
       "marca": "Special dog",
       "nome": "Prime júnior raças médias",
       "tipo":"Super premium",
-      "imgURL": "./src/assets/img/special-dog-prime-junior-racas-medias-peej9-20230904115532.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-prime-junior-racas-medias-peej9-20230904115532.png?alt=media&token=227c3e58-a9f2-4315-b308-3985e42bda46",
       "pacotes": [
         {
           "pacote": "20Kg",
@@ -103,7 +103,7 @@
       "marca": "Special dog",
       "nome": "Prime adultos raças médias",
       "tipo":"Super premium",
-      "imgURL": "./src/assets/img/special-dog-prime-adultos-racas-medias-s0kr8-20230904115717.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-prime-adultos-racas-medias-s0kr8-20230904115717.png?alt=media&token=d2004d28-5426-493c-aa48-c6a7eafa1600",
       "pacotes": [
         {
           "pacote": "10Kg",
@@ -124,7 +124,7 @@
       "marca": "Special dog",
       "nome": "Prime adultos raças pequenas",
       "tipo":"Super premium",
-      "imgURL": "./src/assets/img/special-dog-prime-adultos-racas-pequenas-llh24-20230904120412.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-prime-adultos-racas-pequenas-llh24-20230904120412.png?alt=media&token=ef2d8348-515e-4b3c-9756-5cc933dc6826",
       "pacotes": [
         {
           "pacote": "10Kg",
@@ -145,7 +145,7 @@
       "marca": "Special dog",
       "nome": "Ultralife cães raças pequenas júnior",
       "tipo": "Premium especial",
-      "imgURL": "./src/assets/img/special-dog-ultralife-caes-racas-pequenas-junior-sabor-frango-8sq2m-20230807132630.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-ultralife-caes-racas-pequenas-junior-sabor-frango-8sq2m-20230807132630.png?alt=media&token=7cd610e5-3824-4529-a70b-cbad82d50fcf",
       "pacotes": [
         {
           "pacote": "10Kg",
@@ -166,7 +166,7 @@
       "marca": "Special dog",
       "nome": "Ultralife cães raças pequenas adultos",
       "tipo": "Premium especial",
-      "imgURL": "./src/assets/img/special-dog-ultralife-caes-racas-pequenas-adultos-sabor-cordeiro-zuy9k-20230807131924.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-ultralife-caes-racas-pequenas-adultos-sabor-cordeiro-zuy9k-20230807131924.png?alt=media&token=e475ed34-eccf-46a1-90bb-2c606651be20",
       "pacotes": [
         {
           "pacote": "10Kg",
@@ -187,7 +187,7 @@
       "marca": "Special dog",
       "nome": "Ultralife cães raças pequenas adultos",
       "tipo": "Premium especial",
-      "imgURL": "./src/assets/img/special-dog-ultralife-caes-racas-pequenas-adultos-sabor-frango-ghieg-20230807132302.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-ultralife-caes-racas-pequenas-adultos-sabor-frango-ghieg-20230807132302.png?alt=media&token=892208e1-c3de-4f5f-ab16-cdf487c7699e",
       "pacotes":[
         {
           "pacote": "10Kg",
@@ -208,7 +208,7 @@
       "marca": "Special dog",
       "nome": "Ultralife raças médias e grandes light castrados ",
       "tipo": "Premium especial",
-      "imgURL": "./src/assets/img/special-dog-ultralife-caes-racas-medias-e-grandes-light-castrados-sabor-frango-fnmeb-20230807130915.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-ultralife-caes-racas-medias-e-grandes-light-castrados-sabor-frango-fnmeb-20230807130915.png?alt=media&token=7203eb35-8524-4ccf-80a3-0b4005c6c3f6",
       "pacotes": [
         {
           "pacote": "10Kg",
@@ -229,7 +229,7 @@
       "marca": "Special dog",
       "nome": "Ultralife cães raças pequenas light castrados",
       "tipo": "Premium especial",
-      "imgURL": "./src/assets/img/special-dog-ultralife-caes-racas-pequenas-light-castrados-sabor-frango-w99w7-20230807133751.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-ultralife-caes-racas-pequenas-light-castrados-sabor-frango-w99w7-20230807133751.png?alt=media&token=b524cc7a-28f2-481d-a890-56cf85375751",
       "pacotes": [
         {
           "pacote": "10Kg",
@@ -250,7 +250,7 @@
       "marca": "Special dog",
       "nome": "Gold performance adultos",
       "tipo": "Premium especial",
-      "imgURL": "./src/assets/img/special-dog-gold-performance-adultos-carne-e-frango-jitpf-20230928121028.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-gold-performance-adultos-carne-e-frango-jitpf-20230928121028.png?alt=media&token=6bc374bc-ce99-42ab-81a8-7bbfc1df76e2",
       "pacotes": [
         {
           "pacote": "10Kg",
@@ -271,7 +271,7 @@
       "marca": "Special dog",
       "nome": "Gold life adultos",
       "tipo": "Premium especial",
-      "imgURL": "./src/assets/img/special-dog-gold-life-adultos-carne-e-frango-b2cdm-20230928144919.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-gold-life-adultos-carne-e-frango-b2cdm-20230928144919.png?alt=media&token=bd3981df-13af-43e7-8cae-495f40c670e3",
       "pacotes": [
         {
           "pacote": "10Kg",
@@ -292,7 +292,7 @@
       "marca": "Special dog",
       "nome": "Júnior sabor carne",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/special-dog-junior-carne-oxrft-20231101150843.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-junior-carne-oxrft-20231101150843.png?alt=media&token=39844a9d-635f-49ed-a09a-0e85ff97e902",
       "pacotes":[
         {
           "pacote": "15Kg",
@@ -309,7 +309,7 @@
       "marca": "Special dog",
       "nome": "Adultos sabor carne",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/special-dog-carne-adultos-flna4-202112231352461.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-carne-adultos-flna4-202112231352461.png?alt=media&token=16e727b4-db72-499e-a745-091bf0964208",
       "pacotes":[
         {
           "pacote": "15Kg",
@@ -326,7 +326,7 @@
       "marca": "Special dog",
       "nome": "Adultos pequeno porte",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/special-dog-adultos-pequeno-porte-0dzlo-202112231354281.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-adultos-pequeno-porte-0dzlo-202112231354281.png?alt=media&token=83933bee-cc9f-430b-bd23-d0577c684c18",
       "pacotes": [
         {
           "pacote":"10Kg",
@@ -339,7 +339,7 @@
       "marca": "Special dog",
       "nome": "Júnior pró vegetais",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/special-dog-pro-junior-vegetais-28rqp-20230418131315.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-pro-junior-vegetais-28rqp-20230418131315.png?alt=media&token=9e2b33c8-b757-47bd-83ff-656f2de0e01e",
       "pacotes": [
         {
           "pacote": "15Kg",
@@ -356,7 +356,7 @@
       "marca": "Special dog",
       "nome": "Adultos plus carne",
       "tipo": "Premium",
-      "imgURL":  "./src/assets/img/special-dog-plus-adultos-carne-bmctt-20230418131048.png",
+      "imgURL":  "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-plus-adultos-carne-bmctt-20230418131048.png?alt=media&token=3f5e32df-4bb3-4505-8326-79688ecf0fc4",
       "pacotes": [
         {
           "pacote": "15Kg",
@@ -373,7 +373,7 @@
       "marca": "Special dog",
       "nome": "Adultos vegetais",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/special-dog-vegetais-adultos-44ll1-202112231353581.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/special-dog-vegetais-adultos-44ll1-202112231353581.png?alt=media&token=c5b419af-c90f-4264-9fe6-b0d1e26fb2a9",
       "pacotes": [
         {
           "pacote": "15Kg",
@@ -390,7 +390,7 @@
       "marca": "Billy dog",
       "nome": "Cães adultos",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/nutridani-billy.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/nutridani-billy.png?alt=media&token=50ceb80b-aeb7-4141-911b-9a82e11bfd9d",
       "pacotes": [
         {
           "pacote": "16Kg",
@@ -403,7 +403,7 @@
       "marca": "Quartz",
       "nome": "Cão essencial adultos todas as raças",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/adultos-essencial.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/adultos-essencial.png?alt=media&token=e23a3800-8d3c-478d-b7b9-7a341bdec9b9",
       "pacotes":[
         {
           "pacote": "20Kg",
@@ -416,7 +416,7 @@
       "marca": "Magnus",
       "nome": "Adultos todo dia",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/MKP-Magnus-Todo-Dia_02-e1704474111493.png.webp",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/MKP-Magnus-Todo-Dia_02-e1704474111493.png.webp?alt=media&token=8c5b50a4-8e71-4ebb-a66c-5aaf10f35362",
       "pacotes": [
         {
           "pacote": "15Kg",
@@ -433,7 +433,7 @@
       "marca": "Robustus",
       "nome": "Cão adultos",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/dia-a-dia.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/dia-a-dia.png?alt=media&token=c5d2aeaf-05b5-4715-b3c0-e7bcf1be7cfa",
       "pacotes":[
         {
           "pacote": "15Kg",
@@ -450,7 +450,7 @@
       "marca": "Multi dog",
       "nome": " Cães adultos",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/multidog-premium.webp",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/multidog-premium.webp?alt=media&token=060e941c-1a71-4fa6-80c2-ace2b505b2e8",
       "pacotes":[
         {
           "pacote": "15Kg",
@@ -467,7 +467,7 @@
       "marca": "Luck dog",
       "nome": "Cães filhote",
       "tipo": "alimento completo",
-      "imgURL": "./src/assets/img/180_racao_luck_dog_para_caes_filhotes_sabor_carne_684_1_b0a2d6fa2f7ece44cf570eb49a6515a5-removebg-preview.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/180_racao_luck_dog_para_caes_filhotes_sabor_carne_684_1_b0a2d6fa2f7ece44cf570eb49a6515a5-removebg-preview.png?alt=media&token=745365f1-7b64-4e72-812f-ccc2ebc45d41",
       "pacotes": [
         {
           "pacote": "10Kg",
@@ -480,7 +480,7 @@
       "marca":"Atacama",
       "nome": "Cães todas as raças",
       "tipo": "Super premium",
-      "imgURL": "./src/assets/img/atacama.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/atacama.png?alt=media&token=eae80d8d-a6d2-457a-a92c-3146ad4eb2a1",
       "pacotes":[
         {
           "pacote": "14Kg",
@@ -497,7 +497,7 @@
       "marca": "Chase",
       "nome": "Cães adutos",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/chase-premium-verde.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/chase-premium-verde.png?alt=media&token=8910e175-0691-47e2-ae1d-152fff7f906f",
       "pacotes": [
         {
           "pacote": "15Kg",
@@ -510,7 +510,7 @@
       "marca":"Magic pet",
       "nome": "Cães adultos",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/mockup-Magic-Pet-Dog-carne-ESQUERDA.webp",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/mockup-Magic-Pet-Dog-carne-ESQUERDA.webp?alt=media&token=86f75686-0d4a-4299-af7c-313d6d8fe172",
       "pacotes": [
         {
           "pacote": "25Kg",
@@ -523,7 +523,7 @@
       "marca":"Matsuda",
       "nome": "Nhac vegetal",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/nhac-29.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/nhac-29.png?alt=media&token=87a72545-655b-48c8-be35-3ba3d71570c5",
       "pacotes":[
         {
           "pacote": "15Kg",
@@ -536,7 +536,7 @@
       "marca": "Matsuda",
       "nome": "VittaMax classic cães adultos",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/vittamax-10.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/vittamax-10.png?alt=media&token=e9e368aa-7cd3-43e5-912d-5fd3d500402c",
       "pacotes":[
         {
           "pacote": "15Kg",
@@ -549,7 +549,7 @@
       "marca": "Matsuda",
       "nome": "VittaMax premium",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/vittamax-7.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/vittamax-7.png?alt=media&token=860a7a91-d552-4bf3-aed0-214bd67c8a5f",
       "pacotes":[
         {
           "pacote": "15Kg",
@@ -562,7 +562,7 @@
       "marca": "Dog trato",
       "nome": "Cães adultos",
       "tipo": "Premium",
-      "imgURL":"./src/assets/img/dog-trato-premium-01.webp",
+      "imgURL":"https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/dog-trato-premium-01.webp?alt=media&token=75bcae9e-6789-4fbc-a32f-0e9e61a63e76",
       "pacotes":[
         {
           "pacote": "15Kg",
@@ -575,7 +575,7 @@
       "marca":"Peddy dog",
       "nome": "Cães adultos",
       "tipo": "Alimento completo",
-      "imgURL": "./src/assets/img/peddy-dog.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/peddy-dog.png?alt=media&token=e445ccb4-f9d8-4cef-8de3-262042739c77",
       "pacotes":[
         {
           "pacote": "7Kg",
@@ -588,7 +588,7 @@
       "marca":"Unna", 
       "nome": "Cães adultos",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/UNNA_Cao-Adulto-Porte-P-1kg_v14_Curvas_frente2.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/UNNA_Cao-Adulto-Porte-P-1kg_v14_Curvas_frente2.png?alt=media&token=dcf655b3-9e4f-41ce-9a7a-6efc34dc5daf",
       "pacotes":[
         {
           "pacote": "15Kg",
@@ -605,7 +605,7 @@
       "marca": "Unna",
       "nome": "Raças pequenas",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/UNNA_Cao-Adulto-Porte-P-1kg_v14_Curvas_frente-1.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/UNNA_Cao-Adulto-Porte-P-1kg_v14_Curvas_frente-1.png?alt=media&token=bdbe7053-c30d-4410-a730-04d591dc2a0a",
       "pacotes":[
         {
           "pacote": "10Kg",
@@ -626,7 +626,7 @@
       "marca": "Unna",
       "nome": "Cães filhotes",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/UNNA_Cao-filhote-Porte-P-1kg_v14_Curvas_frente.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/UNNA_Cao-filhote-Porte-P-1kg_v14_Curvas_frente.png?alt=media&token=70055725-e31e-466d-a3a7-7a9d3841b9d1",
       "pacotes":[
         {
           "pacote": "10Kg",
@@ -647,7 +647,7 @@
       "marca":"Birbo",
       "nome": "Cães adultos",
       "tipo": "Premium",
-      "imgURL": "./src/assets/img/d8ed8a6f3b5d6ab2f293c0d7bf1b0a01.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/d8ed8a6f3b5d6ab2f293c0d7bf1b0a01.png?alt=media&token=5fb5702a-3557-41cf-9ec0-8a84ad6f98b6",
       "pacotes": [
         {
           "pacote": "15Kg",
@@ -662,7 +662,7 @@
      "marca": "Spert",
      "nome": "Gatos adultos",
      "tipo": "Premium especial",
-     "imgURL":"./src/assets/img/spert-gatos-min.png.webp",
+     "imgURL":"https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/spert-gatos-min.png.webp?alt=media&token=b2929443-4b35-4f85-9fdd-300a4cdf82c3",
      "pacotes":[
       {
         "pacote": "10Kg",
@@ -679,7 +679,7 @@
       "marca": "Spert",
       "nome": "Gatos castrados",
       "tipo":"Premium especial",
-      "imgURL": "./src/assets/img/spert-gatos-castrados-min.png.webp",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/spert-gatos-castrados-min.png.webp?alt=media&token=f729a6ed-cad8-4b93-8276-a2c0035e84e6",
       "pacotes":[
         {
           "pacote": "10Kg",
@@ -696,7 +696,7 @@
       "marca": "Whiskas",
       "nome": "Gatos adultos",
       "tipo":"Premium",
-      "imgURL": "./src/assets/img/7896029091906-product-image-1.webp",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/7896029091906-product-image-1.webp?alt=media&token=6cb427ff-ff7d-4568-ac5b-c49fa031d5d3",
       "pacotes":[
         {
           "pacote": "10Kg",
@@ -709,7 +709,7 @@
       "marca": "Whiskas",
       "nome": "Gatos castrados",
       "tipo":"Premium",
-      "imgURL": "./src/assets/img/7896029086995-product-image-1.webp",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/7896029086995-product-image-1.webp?alt=media&token=c78c82d6-5993-4687-b41a-29905ce23c75",
       "pacotes":[
         {
           "pacote": "10Kg",
@@ -722,7 +722,7 @@
       "marca": "Atacama",
       "nome": "Gatos castrados",
       "tipo":"Super premium",
-      "imgURL": "./src/assets/img/screenshot_20230109043205-ae785e05a5-removebg-preview.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/screenshot_20230109043205-ae785e05a5-removebg-preview.png?alt=media&token=532c9169-3041-4e63-a1bb-791b149dce48",
       "pacotes":[
         {
           "pacote": "10Kg",
@@ -735,7 +735,7 @@
       "marca": "Matsuda",
       "nome": "VittaMax gato peixe ",
       "tipo":"Premium especial",
-      "imgURL": "./src/assets/img/vittamax-12.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/vittamax-12.png?alt=media&token=34435220-3780-4643-b328-4b906b0ce84a",
       "pacotes":[
         {
           "pacote": "20Kg",
@@ -748,7 +748,7 @@
       "marca": "Matsuda",
       "nome": "VittaMax gato carne ",
       "tipo":"Premium especial",
-      "imgURL": "./src/assets/img/vittamax-5.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/vittamax-5.png?alt=media&token=eaca5b75-dc83-4cf6-9f1d-4cf1222da240",
       "pacotes":[
         {
           "pacote": "20Kg",
@@ -761,7 +761,7 @@
       "marca": "Golden",
       "nome": " Gato castrado",
       "tipo":"Premium",
-      "imgURL": "./src/assets/img/golden_gatos_adultos_carne_e_fra.webp",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/golden_gatos_adultos_carne_e_fra.webp?alt=media&token=53260a4a-7773-4e1d-a6fd-2cc89c4dcc96",
       "pacotes":[
         {
           "pacote": "10Kg",
@@ -774,7 +774,7 @@
       "marca": "Unna",
       "nome": "Gatos adultos",
       "tipo":"Premium",
-      "imgURL": "./src/assets/img/embalagem-gato-adulto.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/embalagem-gato-adulto.png?alt=media&token=f412d5f0-57dc-43e7-87d2-d6859f3ab68a",
       "pacotes":[
         {
           "pacote": "10Kg",
@@ -787,7 +787,7 @@
       "marca": "Unna",
       "nome": "Gatos castrados",
       "tipo":"Premium",
-      "imgURL": "./src/assets/img/embalagem-gato-castrado.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/embalagem-gato-castrado.png?alt=media&token=afbee0b3-f1c9-4042-902c-53b3efa830b6",
       "pacotes":[
         {
           "pacote": "10Kg",
@@ -800,7 +800,7 @@
       "marca": "Marisol",
       "nome": "Gatos adultos",
       "tipo":"Premium",
-      "imgURL": "./src/assets/img/maricat.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/maricat.png?alt=media&token=588502d1-2ad0-4900-a422-2ec077872d8f",
       "pacotes":[
         {
           "pacote": "20Kg",
@@ -813,7 +813,7 @@
       "marca": "Misty cat",
       "nome": "Gatos adultos",
       "tipo":"alimento completo",
-      "imgURL": "./src/assets/img/misty-cat.png",
+      "imgURL": "https://firebasestorage.googleapis.com/v0/b/agropet-site.appspot.com/o/misty-cat.png?alt=media&token=416608ae-5d21-432c-9058-11a18edca5ae",
       "pacotes":[
         {
           "pacote": "25Kg",
