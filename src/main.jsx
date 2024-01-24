@@ -4,12 +4,11 @@ import App from './App.jsx'
 import './index.css'
 // 1  - configurando Router
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
-import Home from './Routes/Home.jsx'
 import CatalogoCachorro from './Routes/CatalogoCachorro.jsx'
 import CatalogoGato from './Routes/CatalogoGato.jsx'
 import CarrinhoCompra from './Routes/CarrinhoCompra.jsx'
-
-// 
+import CadastroProduto from './Routes/CadastroProduto.jsx'
+import Tabela from './Routes/Tabela.jsx' 
 
 const router = createBrowserRouter([
   {
@@ -27,6 +26,14 @@ const router = createBrowserRouter([
       {
         path: "carrinho",
         element: <CarrinhoCompra/>
+      },
+      {
+        path: "cadastro",
+        element: <CadastroProduto/>
+      },
+      {
+        path: "tabelaProdutos",
+        element: <Tabela/>
       }
     ]
   }
