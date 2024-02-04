@@ -78,7 +78,6 @@ const CatalogoCachorro = () => {
         ))}
         {!removeLoading && <Loading />}
       </div>
-      <Footer />
     </>
   );
 };

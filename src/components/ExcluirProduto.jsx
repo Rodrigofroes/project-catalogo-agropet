@@ -34,43 +34,7 @@ const ExcluirProduto = () => {
   };
 
   return (
-    <div>
-      <form onSubmit={handleSubmit(createID)}>
-        <h1 className="font-medium text-2xl flex items-center justify-center mb-10">
-          Excluir Produto
-        </h1>
-        <div>
-          <div>
-            <label htmlFor="" className="font-medium">
-              ID do produto:
-            </label>
-            <input
-              type="text"
-              {...register("id")}
-              className="bg-slate-200 mt-2 outline-none ring-2 ring-gray-400 px-1 py-2 rounded-md"
-            />
-            {errors.id && (
-              <span className="text-red-500">Este campo é obrigatório.</span>
-            )}
-          </div>
-          <button
-            type="submit"
-            className="bg-red-600 w-full items-center justify-center p-2 rounded-md mt-5 text-white font-medium"
-          >
-            Excluir
-          </button>
-        </div>
-      </form>
-      <div className="mt-4">
-        <Link
-          to="/tabelaProdutos"
-          target="_blank"
-          className="hover:underline text-blue-500 font-medium"
-          >
-          Tabela de Produtos
-        </Link>
-      </div>
-    </div>
+   
   );
 };
 

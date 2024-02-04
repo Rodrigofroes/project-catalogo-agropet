@@ -6,8 +6,7 @@ import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import CatalogoCachorro from './Routes/CatalogoCachorro.jsx'
 import CatalogoGato from './Routes/CatalogoGato.jsx'
-import CarrinhoCompra from './Routes/CarrinhoCompra.jsx'
-import CadastroProduto from './Routes/CadastroProduto.jsx'
+import PainelControle from './Routes/PainelControle.jsx'
 import Tabela from './Routes/Tabela.jsx' 
 
 const router = createBrowserRouter([
@@ -24,12 +23,8 @@ const router = createBrowserRouter([
         element: <CatalogoGato/>
       },
       {
-        path: "carrinho",
-        element: <CarrinhoCompra/>
-      },
-      {
         path: "cadastro",
-        element: <CadastroProduto/>
+        element: <PainelControle/>
       },
       {
         path: "tabelaProdutos",

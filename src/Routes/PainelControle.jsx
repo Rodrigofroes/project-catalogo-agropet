@@ -8,21 +8,33 @@ import {
   getDownloadURL,
   uploadBytesResumable,
 } from "firebase/storage";
-import { getDatabase, push, ref as databaseRef } from "firebase/database";
+import {
+  getDatabase,
+  push,
+  ref as databaseRef,
+  remove,
+} from "firebase/database";
 import { initializeApp } from "firebase/app";
-
+import { Link } from "react-router-dom";
 import firebaseConfig from "../firebase/firebaseConfig";
-import ExcluirProduto from "../components/ExcluirProduto";
 
 initializeApp(firebaseConfig);
 
 const saveUserData = (dados, tipoCategoria) => {
   const db = getDatabase();
   const categoria = tipoCategoria.toLowerCase();
-  console.log(categoria)
+  console.log(categoria);
   const usersRef = databaseRef(db, `${categoria}/`);
-  push(usersRef, dados)
+  push(usersRef, dados);
   alert("Produto cadastrado com sucesso!");
+};
+
+const DeleteData = (data, categoria) => {
+  const db = getDatabase();
+  console.log(categoria)
+  const usersRef = databaseRef(db, `/${categoria}/${data.id}`);
+  remove(usersRef);
+  alert("Produto excluído com sucesso!");
 };
 
 const createUserFromSchema = z.object({
@@ -35,6 +47,10 @@ const createUserFromSchema = z.object({
       preco: z.coerce.number().min(1, "Informe um valor"),
     })
   ),
+});
+
+const createUserFromSchemaExcluir = z.object({
+  id: z.string().min(1, "Este campo é obrigatório.")
 });
 
 const CadastroProduto = () => {
@@ -51,7 +67,13 @@ const CadastroProduto = () => {
     resolver: zodResolver(createUserFromSchema),
   });
 
-  const [valor, setValor] = useState("");
+  const {
+    register: registerExcluir,
+    handleSubmit: handleSubmitExcluir,
+    formState: { errors: errosExcluir },
+  } = useForm({
+    resolver: zodResolver(createUserFromSchemaExcluir),
+  });
 
   const { fields, append, remove } = useFieldArray({
     control,
@@ -81,6 +103,12 @@ const CadastroProduto = () => {
     };
 
     saveUserData(JSON.stringify(dadosDoProduto, null, 2), tipoCategoria);
+  };
+
+  const createID = (data) => {
+    const categoria = document.getElementById("categoria").value;
+    console.log(data);
+    DeleteData(data, categoria)
   };
 
   const handleImageChange = (e) => {
@@ -120,8 +148,10 @@ const CadastroProduto = () => {
     <div className="h-screen flex items-center justify-center">
       <div className=" flex flex-col justify-center items-center max-w-sm">
         <div className="flex gap-32">
-          <form onSubmit={handleSubmit(onSubmit)} 
-            className="space-y-5 min-h-[500px]">
+          <form
+            onSubmit={handleSubmit(onSubmit)}
+            className="space-y-5 min-h-[500px]"
+          >
             <h1 className="font-medium text-2xl flex items-center justify-center mb-10">
               Cadastro de Produto
             </h1>
@@ -274,7 +304,55 @@ const CadastroProduto = () => {
               Cadastrar
             </button>
           </form>
-          <ExcluirProduto />
+          <form onSubmit={handleSubmitExcluir(createID)}>
+            <h1 className="font-medium text-2xl flex items-center justify-center mb-10">
+              Excluir Produto
+            </h1>
+            <div>
+              <div>
+                <div className="flex flex-col">
+                  <label className="font-medium mb-2" htmlFor="selectCategoria">
+                    Categoria:
+                  </label>
+                  <select
+                    id="categoria"
+                    className="bg-slate-200 outline-none  px-1 py-2 rounded-md"
+                  >
+                    <option value="cachorro">Cachorro</option>
+                    <option value="gato">Gato</option>
+                  </select>
+                </div>
+                <label htmlFor="" className="font-medium">
+                  ID do produto:
+                </label>
+                <input
+                  type="text"
+                  {...registerExcluir("id")}
+                  className="bg-slate-200 mt-2 outline-none ring-2 ring-gray-400 px-1 py-2 rounded-md"
+                />
+                {errosExcluir.id && (
+                  <span className="text-red-500">
+                    Este campo é obrigatório.
+                  </span>
+                )}
+              </div>
+              <button
+                type="submit"
+                className="bg-red-600 w-full items-center justify-center p-2 rounded-md mt-5 text-white font-medium"
+              >
+                Excluir
+              </button>
+            </div>
+          </form>
+          <div className="mt-4">
+            <Link
+              to="/tabelaProdutos"
+              target="_blank"
+              className="hover:underline text-blue-500 font-medium"
+            >
+              Tabela de Produtos
+            </Link>
+          </div>
         </div>
       </div>
     </div>

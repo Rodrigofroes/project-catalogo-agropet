@@ -58,8 +58,8 @@ const CatalogoCachorro = () => {
               tipo={item.tipo}
             >
               <div className="flex mt-4 gap-4 flex-col items-center justify-center">
-                <p>Tamanhos disponíveis:</p>
-                <div className="flex gap-2">
+                <p>DISPONÍVEL EM EMBALAGENS DE:</p>
+                <div className="flex gap-2 flex-wrap items-center justify-center">
                   {Array.isArray(item.pacotes) && item.pacotes.map((pacote) => (
                     <ul key={pacote.id} className="flex flex-col items-center justify-center bg-blue-500 p-1 text-sm font-medium text-white rounded-md">
                       <li>{pacote.pacote + "kg"}</li>
@@ -78,7 +78,9 @@ const CatalogoCachorro = () => {
         ))}
         {!removeLoading && <Loading />}
       </div>
-      <Footer />
+      <div className="md:mt-10">
+        <Footer/>
+      </div>
     </>
   );
 };

@@ -6,7 +6,6 @@ const Card = ({ marca, nome, tipo, imagem, alt, children }) => {
       <div className="flex flex-col items-center text-center">
         <h2 className="font-medium">{marca}</h2>
         <img loading="lazy" className="w-36 h-36 mt-4" src={imagem} alt={alt} />
-        {/* Ajuste no estilo para acomodar nomes mais longos */}
         <h3 className="mt-4 flex items-center justify-center font-semibold break-words">{nome}</h3>
       </div>
       <div>
